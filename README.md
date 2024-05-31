@@ -1,2 +1,2 @@
-# C_project1
+# C_project
 Author - Sipra Sahoo
